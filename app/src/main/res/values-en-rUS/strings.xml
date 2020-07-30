@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Boton1">Enter</string>
+    <string name="titulo">Welcome</string>
+    <string name="app_name">My first android proyect</string>
+</resources>
